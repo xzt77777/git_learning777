@@ -1,1 +1,3 @@
 123456789
+
+我们是在模拟两个不同的用户改同一个分支，这不过远端的github clone前新分支是以branch0/1为基的，而不是以master为基的，clone过来就没有master最新的b.txt和readME后续的修改记录了。
